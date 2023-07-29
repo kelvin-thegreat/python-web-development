@@ -1,7 +1,7 @@
 # python-web-development
 Building a Website with Flask and advancing Authentication and Database skills
 
-# Flask Web App TutorialSetup & Installation
+# Setup & Installation
 Have the latest version of Python installed.
 
 git clone <repo-url>
